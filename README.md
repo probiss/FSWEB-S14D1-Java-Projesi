@@ -51,7 +51,7 @@ Proje sayımız ilerledikçe proje yönetimimizi kolaylaştırmak adına projele
 
 ### Uygulamayı Test Etmek
 
-Uygulamada ```main``` metodu içerisinde INPUT kısmındaki kod blokları çağırıldığında, OUTPUT kısmındaki gibi bir çıktı alınmalı. 
+Uygulamada ```com.workintech.s14d1.main``` metodu içerisinde INPUT kısmındaki kod blokları çağırıldığında, OUTPUT kısmındaki gibi bir çıktı alınmalı. 
 
 ### Silindir için
 INPUT
